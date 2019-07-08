@@ -1,0 +1,27 @@
+{
+  "name": "react-custom-placeholder",
+  "version": "1.0.0",
+  "description": "Custom animated SVG placeholder component for loading async content in React.",
+  "main": "index.ts",
+  "keywords": [
+    "react",
+    "loader",
+    "loading",
+    "placeholder"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Brockhoff<brockhoffrw@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^24.0.15",
+    "@types/react": "^16.8.23",
+    "@types/react-dom": "^16.8.4",
+    "jest": "^24.8.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "semantic-release": "^15.13.18",
+    "typescript": "^3.5.2"
+  }
+}
