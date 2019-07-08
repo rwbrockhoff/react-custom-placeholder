@@ -1,7 +1,5 @@
 import * as React from 'react';
-interface IPlaceholderProps {
-  name?: string;
-}
+import { IPlaceholderProps } from './interfaces';
 
 const Placeholder: React.FunctionComponent<IPlaceholderProps> = props => {
   return (
